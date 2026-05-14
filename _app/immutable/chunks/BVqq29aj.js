@@ -1,0 +1,1 @@
+import{v as c,ab as h,w as k,Z as S,ac as T}from"./XV83Zqz_.js";function u(r,i){return r===i||r?.[T]===i}function q(r={},i,a,b){return c(()=>{var f,s;return h(()=>{f=s,s=b?.()||[],k(()=>{r!==a(...s)&&(i(r,...s),f&&u(a(...f),r)&&i(null,...f))})}),()=>{S(()=>{s&&u(a(...s),r)&&i(null,...s)})}}),r}export{q as b};
